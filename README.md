@@ -9,6 +9,15 @@
 
 - works with node v20.5.0
 
+```json
+  "dependencies": {
+    "next": "13.2.4",
+    "openai": "^3.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+```
+
 ## Dependencies
 
 ### Install npm via nodejs using either
