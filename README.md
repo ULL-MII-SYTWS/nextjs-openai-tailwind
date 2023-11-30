@@ -1,4 +1,13 @@
-# Next.js, TypeScript, Tailwind
+# OpenAI Next.js, TypeScript, Tailwind
+
+## References
+
+- See <https://carlogino.com/blog/openai-nextjs-text-completion>
+- Deployment at Vercel: https://nextjs-bg3htd396-codegino.vercel.app/
+
+## Conclusions
+
+- works with node v20.5.0
 
 ## Dependencies
 
