@@ -18,6 +18,8 @@
   }
 ```
 
+May be is more convenient for a lab than s.t. OpenAI 4.20
+
 ## Dependencies
 
 ### Install npm via nodejs using either
